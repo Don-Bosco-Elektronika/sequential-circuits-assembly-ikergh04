@@ -18,14 +18,11 @@ Muntaketa simulatu eta hurrengo zirkuitu integratuen funtzionamendua egiaztatu, 
 
 | **Gates** | **Imagen** |
 |-----------|------------|
-| **4044** → NAME?  | ![NAME?](imagen_xor.png) |
-| **74100** → NAME?   | ![NAME?](imagen_or.png) |
-| **74175** → NAME?  | ![NAME?](imagen_and.png) |
-| **7476** → NAME? | ![NAME?](imagen_not.png) |
-| **4027** → NAME?  | ![NAME?](imagen_nor.png) |
-| **74164** → NAME? | ![NAME?](imagen_nand.png) |
-| **74165** → NAME?  | ![NAME?](imagen_not.png) |
-| **74595** → NAME?  | ![NAME?](imagen_and.png) |
+| **74175** → NAME?  |  |
+| **7476** → NAME? | <img width="1248" height="550" alt="Captura de pantalla 2026-01-21 103555" src="https://github.com/user-attachments/assets/85ce5cae-fe63-4327-b38e-e53b8bb24206" />|
+| **74164** → NAME? | <img width="1174" height="569" alt="Captura de pantalla 2026-01-21 104855" src="https://github.com/user-attachments/assets/657b6a26-5edc-4f78-993d-8ed4af87cbff" />|
+| **74165** → NAME?  |  <img width="1137" height="614" alt="Captura de pantalla 2026-01-21 120747" src="https://github.com/user-attachments/assets/99d5ed9c-68e4-4224-bcb2-87ada84671cc" />|
+
 
 
 ---
