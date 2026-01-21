@@ -18,7 +18,7 @@ Muntaketa simulatu eta hurrengo zirkuitu integratuen funtzionamendua egiaztatu, 
 
 | **Gates** | **Imagen** |
 |-----------|------------|
-| **74175** → NAME?  |  |
+| **74175** → NAME?  |  <img width="1284" height="607" alt="Captura de pantalla 2026-01-21 122925" src="https://github.com/user-attachments/assets/683b6aa1-9e8b-46ca-8f33-11c50e611258" />|
 | **7476** → NAME? | <img width="1248" height="550" alt="Captura de pantalla 2026-01-21 103555" src="https://github.com/user-attachments/assets/85ce5cae-fe63-4327-b38e-e53b8bb24206" />|
 | **74164** → NAME? | <img width="1174" height="569" alt="Captura de pantalla 2026-01-21 104855" src="https://github.com/user-attachments/assets/657b6a26-5edc-4f78-993d-8ed4af87cbff" />|
 | **74165** → NAME?  |  <img width="1137" height="614" alt="Captura de pantalla 2026-01-21 120747" src="https://github.com/user-attachments/assets/99d5ed9c-68e4-4224-bcb2-87ada84671cc" />|
