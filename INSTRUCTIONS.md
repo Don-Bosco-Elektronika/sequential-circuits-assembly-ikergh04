@@ -1,4 +1,4 @@
-# 🛠️ Ensamblaje de Circuitos Secuenciales / Zirkuitu Sekuentzialen Muntaketa / Sequential Circuits Assembly 
+# 🛠️ Zirkuitu Sekuentzialen Muntaketa
 
 | **Alumnos** | **Curso** | **Módulo** |
 |-------------|-----------|------------|
@@ -6,16 +6,11 @@
 
 ---
 
-## 📌 Ejercicio / Ariketa / Exercice
-
-**Ejercicio (ES):**  
-Simula el montaje y verifica el funcionamiento de los siguientes circuitos integrados, empleando resistencias pull-up en las entradas y LEDs para visualizar las salidas 
-
+## 📌 Ariketa
+ 
 **Ariketa (EU):**  
 Muntaketa simulatu eta hurrengo zirkuitu integratuen funtzionamendua egiaztatu, sarreretan pull-up erresistentziak erabiliz eta irteerak LEDen bidez bistaratuz.  
 
-**Exercice (EN):**  
-Simulate the assembly and verify the operation of the following integrated circuits, using pull-up resistors on the inputs and LEDs to display the outputs.  
 
 ---
 
@@ -23,24 +18,19 @@ Simulate the assembly and verify the operation of the following integrated circu
 
 | **Gates** | **Imagen** |
 |-----------|------------|
-| **4044** → NAME?  | ![NAME?](imagen_xor.png) |
-| **74100** → NAME?   | ![NAME?](imagen_or.png) |
-| **74175** → NAME?  | ![NAME?](imagen_and.png) |
-| **7476** → NAME? | ![NAME?](imagen_not.png) |
-| **4027** → NAME?  | ![NAME?](imagen_nor.png) |
-| **74164** → NAME? | ![NAME?](imagen_nand.png) |
-| **74165** → NAME?  | ![NAME?](imagen_not.png) |
-| **74595** → NAME?  | ![NAME?](imagen_and.png) |
+| **74175** → NAME?  |  <img width="1284" height="607" alt="Captura de pantalla 2026-01-21 122925" src="https://github.com/user-attachments/assets/683b6aa1-9e8b-46ca-8f33-11c50e611258" />|
+| **7476** → NAME? | <img width="1248" height="550" alt="Captura de pantalla 2026-01-21 103555" src="https://github.com/user-attachments/assets/85ce5cae-fe63-4327-b38e-e53b8bb24206" />|
+| **74164** → NAME? | <img width="1174" height="569" alt="Captura de pantalla 2026-01-21 104855" src="https://github.com/user-attachments/assets/657b6a26-5edc-4f78-993d-8ed4af87cbff" />|
+| **74165** → NAME?  |  <img width="1137" height="614" alt="Captura de pantalla 2026-01-21 120747" src="https://github.com/user-attachments/assets/99d5ed9c-68e4-4224-bcb2-87ada84671cc" />|
+
 
 
 ---
 
-## 📤 Entrega / Igo / Upload  
+## 📤 Igo
 
 ➡️ **Instrucciones:**  
 
-- **ES:** Sube un archivo por cada circuito del Simulador Digital Protoboard (8 en total), utilizando una sola puerta de cada chip, con su pull-up... Además, incluye una foto (8 en total) de cada montaje en el archivo INSTRUCTIONS.MD en la columna Imagen. Recuerda que este archivo está escrito en formato Markdown, por lo que deberás seguir su sintaxis correctamente. Todos los archivos subidos han de tener tu nombre. 
 - **EU:** Kargatu zirkuitu bakoitzeko fitxategi bat Simulador Digital Protoboard-en (8 guztira), chip bakoitzeko ate bat erabiliz, pull-up... Gainera, jarri muntaketa bakoitzaren argazkia (8 guztira) INSTRUCTIONS.MD fitxategian, Imagen zutabean. Gogoratu fitxategi hau Markdown formatuan idatzita dagoela, beraz, bere sintaxiari jarraitu beharko diozu. Igotako archivo guztiak zure izena eduki beharko dute.
-- **EN:** Upload one file for each circuit from the Digital Protoboard Simulator (8 in total), using a single gate from each chip with pull-up... Additionally, insert a photo (8 in total) of each assembly into the INSTRUCTIONS.MD file in the Imagen column. Keep in mind that this file is written in Markdown format, so you must follow its syntax correctly. All uploaded files must have your name.
 
 
